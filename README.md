@@ -1,5 +1,7 @@
 # River Raid Rápido
 
+https://riverraidfake.netlify.app/
+
 Um jogo arcade inspirado nos clássicos de navegação e combate, desenvolvido por meio de **vibe coding com inteligência artificial**.
 
 O projeto foi criado a partir de ideias, instruções em linguagem natural e iterações com IA, com foco em transformar uma ideia em uma experiência jogável, explorando mecânicas de jogo, interação, áudio e recursos multiplayer.
